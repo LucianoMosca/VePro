@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">VePro</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="start_tracking">Comenzar medición</string>
+    <string name="reset_max_speed">Reiniciar mediciones</string>
+    <string name="ready_to_start">Preparado para comenzar</string>
+    <string name="accuracy_unknown">Precisión desconocida</string>
+    <string name="avg_speed">Velocidad promedio</string>
+    <string name="max_speed">Velocidad máxima</string>
+    <string name="current_speed">Velocidad actual</string>
+    <string name="retry">Reintentar</string>
+    <string name="permission_required">Permiso de GPS rquerido</string>
+    <string name="location_permission_explanation">Necesitamos permitir el uso de GPS para medir la velocidad y la distancia recorrida</string>
+    <string name="settings">Configuraciones</string>
+    <string name="cancel">Cancelar</string>
+    <string name="accuracy_high">Precisión alta</string>
+    <string name="accuracy_medium">Precisión media</string>
+    <string name="accuracy_low">Precisión baja</string>
+    <string name="max_speed_format">%.2f km/h</string>
+    <string name="stop_tracking">Detener medición</string>
+    <string name="tracking_active">Medición activa</string>
+    <string name="starting_gps">Iniciando GPS</string>
+    <string name="speed_format">%.2f km/h</string>
+</resources>
